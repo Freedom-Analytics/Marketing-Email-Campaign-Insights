@@ -19,7 +19,7 @@ This repository contains a **Power BI dashboard** that provides insights into th
 ![Marketing Email Campaign Dashboard](https://raw.githubusercontent.com/Freedom-Analytics/Marketing-Email-Campaign-Insights/main/Image%20Email%20marketing.jpg)
 
 ## 📂 Dataset
-You can access the dataset used in this project [here](https://onedrive.live.com/?cid=07FB2997AD559975&q=email&scope=drive&id=7FB2997AD559975%21sedd8168512d44bca86e2c04377610e1d&parId=root&parQt=search&o=OneUp).
+You can access the dataset used in this project [here](https://onedrive.live.com/personal/07fb2997ad559975/_layouts/15/Doc.aspx?resid=7FB2997AD559975!sef3ec2cb4e82471a905b07fb939d55bf&cid=7fb2997ad559975&migratedtospo=true&app=Excel).
 
 ## 🚀 How to Use
 1. Download the Power BI file (.pbix) from the repository.
