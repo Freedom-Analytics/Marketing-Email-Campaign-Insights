@@ -16,7 +16,7 @@ This repository contains a **Power BI dashboard** that provides insights into th
 - **Data Cleaning & Transformation** using Power Query
 
 ## 📷 Dashboard Preview
-![Marketing Email Campaign Dashboard](https://raw.githubusercontent.com/Freedom-Analytics/Marketing-Email-Campaign-Insights/main/Image%20Email%20marketing.jpg)
+![Marketing Email Campaign Dashboard](https://github.com/Freedom-Analytics/Marketing-Email-Campaign-Insights/blob/main/Image%20%20Email%20marketing.jpg)
 
 ## 📂 Dataset
 You can access the dataset used in this project [here](https://onedrive.live.com/personal/07fb2997ad559975/_layouts/15/Doc.aspx?resid=7FB2997AD559975!sef3ec2cb4e82471a905b07fb939d55bf&cid=7fb2997ad559975&migratedtospo=true&app=Excel).
