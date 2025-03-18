@@ -6,7 +6,7 @@ This repository contains a **Power BI dashboard** that provides insights into th
 - **Click Rate by Country** 🌍
 - **Impact of Device Type on Campaign Performance** 📱💻
 - **Campaigns with Highest Bounce Rate Over Time** 📉
-- **Click Rate by Campaign Name** 🏷️
+- **Click Rate by Campaign Name** 🏅
 - **Click Rate Trend Over Time by Conversion** 🔄
 - **Campaigns with Lowest Unsubscribe Rate Over Time** ✅
 
@@ -16,7 +16,7 @@ This repository contains a **Power BI dashboard** that provides insights into th
 - **Data Cleaning & Transformation** using Power Query
 
 ## 📷 Dashboard Preview
-![Marketing Email Campaign Dashboard](https://github.com/Freedom-Analytics/Marketing-Email-Campaign-Insights/blob/main/Image%20Email%20marketing.jpg)
+![Marketing Email Campaign Dashboard](https://raw.githubusercontent.com/Freedom-Analytics/Marketing-Email-Campaign-Insights/main/Image%20Email%20marketing.jpg)
 
 ## 📂 Dataset
 You can access the dataset used in this project [here](https://onedrive.live.com/?cid=07FB2997AD559975&q=email&scope=drive&id=7FB2997AD559975%21sedd8168512d44bca86e2c04377610e1d&parId=root&parQt=search&o=OneUp).
@@ -35,4 +35,4 @@ Feel free to fork this repository, suggest improvements, and submit a pull reque
 ## 📩 Contact
 For any questions or collaborations, reach out to me via GitHub.
 
-### ⭐ If you find this useful, don’t forget to give it a star!!!
+### ⭐ If you find this useful, don’t forget to give it a star!
